@@ -1,0 +1,19 @@
+# Arquivos locais, credenciais e IDEs
+.env
+.env.*
+!.env.example
+*.local.*
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Artefatos específicos da área
+*.dmp
+*.log
+*.trc
+*.ora
+wallet/
+Wallet*/
+*.sso
+*.p12

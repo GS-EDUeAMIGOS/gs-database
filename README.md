@@ -24,7 +24,7 @@ Fonte primária fornecida pelo usuário: `2TDS Agosto - Global Solution 2026-2.p
 
 ## Escopo e checklist
 
-Veja [requisitos da disciplina](docs/requisitos-gs.md) e [decisões e pendências](docs/pendencias.md).
+Veja [requisitos da disciplina](docs/requisitos-gs.md), [decisões e pendências](docs/pendencias.md) e o **[Guia Técnico de Modelagem e Instruções para o Kenji (Integração Java + Oracle)](docs/guia-modelagem-kenji.md)**.
 
 Os requisitos específicos fornecidos são Oracle/PLSQL. Não foi acrescentada obrigação de banco NoSQL apenas pelo nome da disciplina. Nenhum script DDL/DML foi criado ou executado nesta preparação.
 
